@@ -3,7 +3,7 @@ package abstractFactory;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class NakMuayTest {
+class NakMuayTest    {
 
     @Test
     void deveIniciarTreinoTecnico(){
